@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Rat_path.unity
+  isLoaded: 1
+  isActive: 1
